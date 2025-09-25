@@ -1,2 +1,14 @@
-# baseline-buddy
-We’re tired of jumping between MDN, Can I Use, and blogs to check if a feature is production-ready. It’s slow, frustrating, and often leads to bugs. That’s why we created Baseline Buddy—it brings compatibility knowledge directly into your VS Code, so you know what’s safe without leaving your editor.
+# Baseline Buddy
+
+**Know instantly if your code is safe to ship.**  
+
+Baseline Buddy is a VS Code extension that shows Baseline web feature support directly in your editor.
+
+## Features
+- Hover tooltips with Baseline + MDN links
+- Squiggly warnings for unsupported features
+- Project-wide Baseline Dashboard
+- Configurable strict mode or custom browsers
+
+## Installation
+Clone the repo, compile, and install VSIX:
